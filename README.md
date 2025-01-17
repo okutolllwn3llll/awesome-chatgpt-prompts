@@ -11,7 +11,7 @@
   <br><br>
   <a href="https://hf.co/chat" align="center" target="_blank">
     <img height="60" alt="Hugging Face logo" src="https://github.com/user-attachments/assets/4187ef06-7cae-402a-a410-e0a999758fed">
-  </a>
+ 2 j</a>
   <br>
   <sub><a href="https://github.com/sponsors/f/sponsorships?sponsor=f&amp;tier_id=319423">Be my sponsor and your logo will be here and prompts.chat!</a></sub>
 </p>
